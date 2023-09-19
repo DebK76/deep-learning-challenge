@@ -4,7 +4,7 @@ The purpose of the analysis is to create a tool for the nonprofit foundation Alp
 The data source is an .csv file compiled by Alphabet Soup’s business team containing information on more than 34,000 organizations that have received funding from Alphabet Soup over the years.
 The processes are machine learning and neural networks, which are employed to construct a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
 The tools of the project are TensorFlow, a free open-source library with a particular focus on training and inference of deep neural networks, and Keras, another open-source library that provides a Python interface for TensorFlow. Coding was conducted in Python.
-Success is defined as creating a tool with a predictive power of 72% or more: i.e., its predictions are correct 72% of the time or more.
+Success is defined as creating a tool with a predictive power of 73% or more: i.e., its predictions are correct 73% of the time or more.
 
 Background
 The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.
